@@ -1,0 +1,15 @@
+{
+  "title": "PT- Intive - FDV Exercise",
+  "nameLabel": "Nome:",
+  "namePlaceholder": "nome aqui",
+  "surnameLabel": "Apelido:",
+  "surnamePlaceholder": "apelido aqui",
+  "countriesLabel": "Paises:",
+  "birthdayLabel": "Aniversario:",
+  "buttonText": "Gravar",
+  "buttonTextLogin": "Login",
+  "loginText1": "Tentou aceder à rota revisited",
+  "loginText2": "introduza a palavra mágica para ter acesso",
+  "magicWordPlaceholder": "Introduza a palavra mágica",
+  "messageUser": "Olá {{name}} de {{country}}. a {{day}} de {{month}} vais ter {{years}} anos!"
+}

@@ -1,0 +1,17 @@
+table{
+  width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+
+  th, td{
+    text-align: left;
+    padding: 8px 4px;
+  }
+
+  tr{
+    border-bottom: 1px solid gray;
+  }
+  tbody tr:last-child{
+    border: unset;
+  }
+}

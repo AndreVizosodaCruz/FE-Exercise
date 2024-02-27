@@ -1,0 +1,49 @@
+h1{
+  text-align: center;
+  margin: 24px 0;
+  color: blue;
+}
+
+.contentHome{
+  display: flex;
+  gap: 24px;
+  position: relative;
+}
+
+.overlayLoading{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(255,255,255,0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .spinner{
+    border: 2px solid #000;
+    border-top: 2px solid transparent;
+    width: 120px;
+    height: 120px;
+  }
+}
+
+.divForm{
+  width: 300px;
+  [class^="toast__"]{
+    margin-top: 40px;
+  }
+}
+
+.divTable {
+  width: 100%;
+  border: 2px solid blue;
+  min-height: 450px;
+}
+
+.developer{
+  margin-top: 24px;
+  width: 100%;
+  color: blue;
+  text-align: right;
+}

@@ -1,0 +1,12 @@
+button{
+  color: blue;
+  border: 1px solid blue;
+  height: 48px;
+  min-width: 100px;
+  padding: 8px 16px;
+  background: transparent;
+  position: relative;
+  &:hover{
+    cursor: pointer;
+  }
+}

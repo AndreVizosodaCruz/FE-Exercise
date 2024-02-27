@@ -1,0 +1,15 @@
+{
+  "title": "Intive - FDV Exercise",
+  "nameLabel": "Name:",
+  "namePlaceholder": "name here",
+  "surnameLabel": "Surname:",
+  "surnamePlaceholder": "surname here",
+  "countriesLabel": "Countries:",
+  "birthdayLabel": "Birthday:",
+  "buttonText": "Save",
+  "buttonTextLogin": "Login",
+  "loginText1": "You tried to access revisited route so",
+  "loginText2": "enter the magic word to have access to it",
+  "magicWordPlaceholder": "Enter magic word",
+  "messageUser": "Hello {{name}} from {{country}}. on {{day}} of {{month}} you will be {{years}} old!"
+}

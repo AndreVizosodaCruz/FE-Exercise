@@ -1,0 +1,15 @@
+.main {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.links{
+  display: inline-flex;
+  gap: 24px;
+
+  a {
+    text-decoration: none;
+    color: blue;
+  }
+}
