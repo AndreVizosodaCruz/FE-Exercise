@@ -1,4 +1,3 @@
-import React from 'react'
 import { CountryProps } from '../../pages/Home';
 import { useTranslation } from 'react-i18next';
 import { User } from '../../context/StoreContext';

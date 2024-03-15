@@ -1,4 +1,3 @@
-import React from 'react';
 import withAuth from '../../hooks/withAuth';
 import Table from '../../components/Table';
 import { useContextStore } from '../../context/StoreContext';
