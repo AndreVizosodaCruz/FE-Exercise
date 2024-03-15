@@ -12,3 +12,6 @@ This FE Challenge is an app that allows the users to register their full name, c
 - download or clone the repository
 - run `npm install`
 - run `npm run dev`
+
+
+Or check online [here](https://fe-exercise-andre-cruz.vercel.app/)
